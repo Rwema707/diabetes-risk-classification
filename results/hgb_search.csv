@@ -1,0 +1,16 @@
+params,mean_test_score,std_test_score
+"{'min_samples_leaf': 50, 'max_leaf_nodes': 15, 'max_iter': 300, 'learning_rate': 0.03, 'l2_regularization': 5.0}",0.8148381883945085,0.0022519798761186124
+"{'min_samples_leaf': 50, 'max_leaf_nodes': 15, 'max_iter': 300, 'learning_rate': 0.03, 'l2_regularization': 1.0}",0.8145299440191242,0.002075064143171269
+"{'min_samples_leaf': 100, 'max_leaf_nodes': 15, 'max_iter': 500, 'learning_rate': 0.05, 'l2_regularization': 0.0}",0.8145014171670556,0.0026902705930961354
+"{'min_samples_leaf': 20, 'max_leaf_nodes': 15, 'max_iter': 300, 'learning_rate': 0.1, 'l2_regularization': 5.0}",0.8142907172587783,0.0019801303308776943
+"{'min_samples_leaf': 50, 'max_leaf_nodes': 15, 'max_iter': 500, 'learning_rate': 0.1, 'l2_regularization': 1.0}",0.8142820788005308,0.002208732718864778
+"{'min_samples_leaf': 50, 'max_leaf_nodes': 15, 'max_iter': 300, 'learning_rate': 0.05, 'l2_regularization': 0.0}",0.8141990453995492,0.0025847890329975605
+"{'min_samples_leaf': 20, 'max_leaf_nodes': 31, 'max_iter': 500, 'learning_rate': 0.03, 'l2_regularization': 1.0}",0.8138212334551574,0.0020926204327380727
+"{'min_samples_leaf': 100, 'max_leaf_nodes': 15, 'max_iter': 500, 'learning_rate': 0.1, 'l2_regularization': 1.0}",0.8137266059953591,0.002764909393300185
+"{'min_samples_leaf': 20, 'max_leaf_nodes': 31, 'max_iter': 500, 'learning_rate': 0.05, 'l2_regularization': 1.0}",0.8136397100521752,0.002685879123603494
+"{'min_samples_leaf': 100, 'max_leaf_nodes': 31, 'max_iter': 300, 'learning_rate': 0.05, 'l2_regularization': 5.0}",0.8134002292195278,0.0028749058297978408
+"{'min_samples_leaf': 100, 'max_leaf_nodes': 31, 'max_iter': 500, 'learning_rate': 0.1, 'l2_regularization': 5.0}",0.8132373109844391,0.00254480969244288
+"{'min_samples_leaf': 50, 'max_leaf_nodes': 31, 'max_iter': 300, 'learning_rate': 0.1, 'l2_regularization': 1.0}",0.8126367483860314,0.002443379815023906
+"{'min_samples_leaf': 20, 'max_leaf_nodes': 63, 'max_iter': 500, 'learning_rate': 0.03, 'l2_regularization': 0.0}",0.8117979753164836,0.0022797422762651596
+"{'min_samples_leaf': 20, 'max_leaf_nodes': 63, 'max_iter': 300, 'learning_rate': 0.05, 'l2_regularization': 0.0}",0.8116889847313931,0.002101490883464162
+"{'min_samples_leaf': 20, 'max_leaf_nodes': 63, 'max_iter': 500, 'learning_rate': 0.1, 'l2_regularization': 0.0}",0.8095872375482173,0.002207251485423921
